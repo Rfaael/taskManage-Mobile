@@ -11,6 +11,7 @@ export const styles = StyleSheet.create({
     taskList: {
         width: '100%',
         height: '75%',
+        alignItems: 'center',
         backgroundColor: '#1A1A1A'
     }
 });

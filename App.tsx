@@ -13,7 +13,7 @@ export default function App() {
           translucent
         />
       
-      <Home></Home>
+      <Home />
     </>
   );
 }

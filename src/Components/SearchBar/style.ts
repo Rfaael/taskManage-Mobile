@@ -6,7 +6,8 @@ export const styles = StyleSheet.create({
         display: 'flex',
         flexDirection: 'row',
         justifyContent: 'center',
-        marginTop: -30
+        marginTop: -30,
+        marginBottom: 30
     },
     searchBar: {
         backgroundColor: "#808080",
